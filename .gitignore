@@ -8,6 +8,7 @@ yarn-error.log*
 .expo/
 dist/
 web-build/
+.vercel/
 
 # Native
 *.orig.*

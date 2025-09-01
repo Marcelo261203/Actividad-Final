@@ -280,9 +280,9 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 ## 📞 Contacto
 
-- **Desarrollador**: [Tu Nombre]
-- **Email**: [tu-email@ejemplo.com]
-- **GitHub**: [tu-usuario-github]
+- **Desarrollador**: Marcelo Josue Flores Buendia
+- **Email**: mjfbchelo@gmail.com
+- **GitHub**: Marcelo261203
 
 ---
 
